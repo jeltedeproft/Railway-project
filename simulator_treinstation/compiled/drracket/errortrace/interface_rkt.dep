@@ -1,0 +1,1 @@
+("6.2.1" ("d41b30fc261daac979faf4f89e02d7a9372be352" . "5c1c987fe723f11312ad6bc449eeee83b51804f3") #"D:\\school\\1e master\\pp2\\simulator_treinstation\\simulation.rkt" #"D:\\school\\1e master\\pp2\\simulator_treinstation\\railwaymodel.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

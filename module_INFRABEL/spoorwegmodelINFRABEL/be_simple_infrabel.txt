@@ -1,0 +1,50 @@
+(
+ 	((S Bx) (S Mx) 1) 
+ 	((S Bx) (N Lv) 1) 
+ 	((S Bx) (N Nm) -1) 
+ 	((N Nm) (N Lg) 0) 
+ 	((N Lg) (N Gk) 0)
+ 	((N Gk) (N Lv) 0) 
+ 	((S Mx) (S A1) -1) 
+ 	((S A1) (N A2) 1) 
+ 	((N A2) (N A3) 0) 
+ 	((N A3) (S A1) 1) 
+ 	((S Mx) (S Gt) -1)  
+ 	((S Gt) (N Bg) 1) 
+ 	((N Bg) (N Os) 0) 
+ 	((N Os) (N Kr) 0) 
+ 	((N Kr) (S Gt) 1)
+)
+
+(
+	(L L1)
+	(L L2)
+)
+
+( 
+	(N A2) 
+	(N A3) 
+	(N Lv) 
+ 	(N Gk) 
+ 	(N Lg) 
+ 	(N Nm)  
+ 	(N Bg)
+ 	(N Os)
+ 	(N Kr)
+)
+
+(
+	(S Bx Nm (Mx Lv))
+	(S Mx Bx (A1 Gt))
+	(S A1 Mx (A2 A3))
+	(S Gt Mx (Bg Kr))
+)
+
+(
+	(De 1 (Lv Gk))
+	(De 2 (Lg Nm))
+	(De 3 (A2 A3))
+	(De 4 (Os Bg))
+	(De 5 (Os Kr))
+)
+
